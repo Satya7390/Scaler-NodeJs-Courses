@@ -10,10 +10,14 @@ function mul(a,b){
 function div(a,b){
     console.log(a/b)
 }
+function mod(a,b){
+    console.log(a/b)
+}
 module.exports={
     addition:add,
     subtraction:sub,
     multiplication:mul,
-    division:div
+    division:div,
+    modulus:mod
 
 }
