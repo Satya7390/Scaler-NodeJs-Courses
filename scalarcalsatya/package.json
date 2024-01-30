@@ -1,0 +1,11 @@
+{
+  "name": "scalarcalsatya",
+  "version": "1.0.0",
+  "description": "This is a module developed by satya duriing Scalar Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satya",
+  "license": "ISC"
+}
